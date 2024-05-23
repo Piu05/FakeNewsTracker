@@ -74,30 +74,3 @@ The file structure is the following
 | Neural Network with Keras | 92.62%       |
 | LSTM                      | 94.53%       |
 
-## Confusion Matrices
-
-* Naive Bayes
-
-![](images/naive-bayes-cm.png)
-
-* SVM
-
-![](images/svm-cm.png)
-
-* Neural Network with TensorFlow
-
-![](images/neural-net-tf.png)
-
-* Neural Network with Keras
-
-![](images/neural-net-keras.png)
-
-* LSTM
-
-![](images/lstm-cm.png)
-
-## References
-  * [Fake news detection: A Data Mining perspective](https://arxiv.org/pdf/1708.01967.pdf)
-  * [Fake News Identification - Stanford CS229](http://cs229.stanford.edu/proj2017/final-reports/5244348.pdf)
-  * [B.S. Detector](https://github.com/bs-detector/bs-detector)
-  * [Datasets from Kaggle](https://www.kaggle.com/c/fake-news/data)
